@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bank-rupt/static/css/main.073c9b0a.css",
+    "main.js": "/bank-rupt/static/js/main.a394b702.js",
+    "static/js/787.0d5e1db9.chunk.js": "/bank-rupt/static/js/787.0d5e1db9.chunk.js",
+    "static/media/logo.svg": "/bank-rupt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bank-rupt/index.html",
+    "main.073c9b0a.css.map": "/bank-rupt/static/css/main.073c9b0a.css.map",
+    "main.a394b702.js.map": "/bank-rupt/static/js/main.a394b702.js.map",
+    "787.0d5e1db9.chunk.js.map": "/bank-rupt/static/js/787.0d5e1db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a394b702.js"
+  ]
+}
